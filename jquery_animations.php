@@ -19,7 +19,7 @@
 
 
 
-
+	<link href="style.css" rel="stylesheet" />
 	<link href="bootstrap/css/bootstrap.css" rel="stylesheet" />
 	<link href="bootstrap/css/bootstrap.min.css" rel="stylesheet" />
 	<script type="text/javascript" src="bootstrap/js/bootstrap.js"></script>
